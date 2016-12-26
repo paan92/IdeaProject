@@ -1,3 +1,7 @@
+package Console;
+
+import Console.Body;
+
 import java.sql.*;
 
 public class Main {

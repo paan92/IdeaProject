@@ -1,8 +1,10 @@
+package Console;
+
 import java.sql.Connection;
 import java.sql.SQLException;
 import java.util.Scanner;
 
-public class Body extends WorkWithBase{
+public class Body extends WorkWithBase {
 
     public Body() {}
 
